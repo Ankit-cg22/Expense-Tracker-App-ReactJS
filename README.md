@@ -5,7 +5,7 @@
 <h2> Run Locally <h2>
   
 ```
-  $ git clone 
+  $ git clone https://github.com/Ankit-cg22/Expense-Tracker-App-ReactJS
   $ cd Expense-Tracker-App-ReactJS
   $ npm start
  
